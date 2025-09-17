@@ -6,7 +6,6 @@ This project investigates the **physiological, behavioural, and ecological impac
 
 Our approach integrates:
 - **Real-time ecological data collection**
-- **Environmental monitoring and IoT-based sensors**
 - **Machine Learning models** for predictive analysis
 - **Comparative evaluation** of classification algorithms
 
