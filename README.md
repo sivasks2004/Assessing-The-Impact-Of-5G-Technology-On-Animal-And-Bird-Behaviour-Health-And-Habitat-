@@ -1,4 +1,4 @@
-# 🛰️ Assessing the Impact of 5G Technology on Animal and Bird Behaviour, Health, and Habitat
+# 🛰️ Assessing the Impact of 5G Technology on Animal and Bird Behaviour, Health and Habitat
 
 ## 📌 Project Overview
 The rapid deployment of **5G technology**, with its **high-frequency electromagnetic radiation (EMR)**, has raised concerns about its potential effects on **wildlife ecosystems**.  
